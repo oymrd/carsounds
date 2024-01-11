@@ -1,0 +1,30 @@
+*{
+    background-color: bisque;
+    
+    
+}
+h1{
+    border: 2px solid;
+    border-radius: 15px;
+    display: inline-block;
+    padding: 10px;
+}
+img{
+    border-radius: 15px;
+}
+#title{
+    border: solid rgb(0, 0, 0);
+    border-radius: 15px;
+    display: inline-block;
+    padding: 15px;
+    background-color: darkkhaki;
+}
+header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-transform: capitalize;
+}
+a{
+    color: black;
+}
